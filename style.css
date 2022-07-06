@@ -7,17 +7,27 @@ h1{
     font-size: 50px;
     
 }
+h2{
+    font-size: 40px;
+}
+
+
 .oranged{
     color: orange;
 }
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 120px;
 
 }
+   
+
+
 .half-width{
     width: 50%;
     padding-left: 10%;
+
+    
 }
 .half-width img{
     width: 90%;
@@ -40,3 +50,17 @@ section{
     background-repeat: no-repeat;
     background-position:right;
 }
+.experiance-item{
+    box-shadow: 10px 10px 40px gray;
+    width:40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    padding-bottom: 5%;
+    
+    
+}
+.Experianc-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: n
+    
