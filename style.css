@@ -63,4 +63,7 @@ h2{
 .Experianc-area{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat; 
-    
+}
+footer p{
+    text-align: center;
+}
